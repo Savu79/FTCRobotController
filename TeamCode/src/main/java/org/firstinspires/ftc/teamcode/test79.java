@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode;
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
-public class test extends LinearOpMode {
+public class test79 extends LinearOpMode {
     DcMotor motor;
     double pow=0;
     public void runOpMode(){
